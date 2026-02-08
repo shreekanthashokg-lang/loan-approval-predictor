@@ -1,0 +1,8 @@
+Built an end to end supervises ML pipeline using KNN, Logistic Regression and Naive Bayes to predict loan approval. Implemented Binary classification along with EDA , feature engineering and model evaluation ( Precision, Recall , F1).
+
+pandas==1.5.3
+numpy==1.24.3
+scikit-learn==1.3.0
+matplotlib==3.7.1
+seaborn==0.12.2
+jupyter==1.0.0
