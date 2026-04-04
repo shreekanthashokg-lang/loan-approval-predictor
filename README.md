@@ -18,9 +18,9 @@ A machine learning system developed to automate loan approval decisions for Secu
 5. **Results Analysis**
 
 ## 📊 Key Results
-- **Best Model:** [Your Model Name]
-- **Accuracy:** [XX]%
-- **Recall:** [XX]% (Important for minimizing good customer rejection)
+- **Best Model: loan-approval-predictor
+- **Accuracy: 85 %
+- **Recall: 70 % (Important for minimizing good customer rejection)
 - **Key Features:** Credit Score, Applicant Income, Loan Amount
 
 ## 🚀 Quick Start
@@ -29,9 +29,9 @@ A machine learning system developed to automate loan approval decisions for Secu
 3. Open the Jupyter notebook: `jupyter notebook notebooks/loan_approval_analysis.ipynb`
 
 ## 📝 Author
-[Your Name] - Machine Learning Engineer  
-[Your Email/Contact]  
-[Link to your LinkedIn Profile]
+SHREEKANTH - Machine Learning Engineer  
+Shreekanthashokg@gmail.com  
+https://www.linkedin.com/in/shreekanth-a-guttedar-81562b384
 
 ---
 *Note: This is a portfolio project demonstrating end-to-end ML implementation.*
