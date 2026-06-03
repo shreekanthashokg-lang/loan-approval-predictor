@@ -29,7 +29,7 @@ A machine learning system developed to automate loan approval decisions for Secu
 3. Open the Jupyter notebook: `jupyter notebook notebooks/loan_approval_analysis.ipynb`
 
 ## 📝 Author
-SHREEKANTH A GUTTEDAR- Machine Learning Engineer  
+SHREEKANTH A GUTTEDAR- Machine Learning ENGINEER  
 Shreekanthashokg@gmail.com  
 https://www.linkedin.com/in/shreekanth-a-guttedar-81562b384
 
