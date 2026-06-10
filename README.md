@@ -3,7 +3,7 @@ MINI PROJECT : PREDICTS  LOAN APPROVAL
 ## 🏦 Project Overview
 A machine learning system developed to automate loan approval decisions for SecureTrust Bank. This project addresses the problem of manual, biased loan verification by implementing an intelligent prediction model.
 
-**Business Impact:** REDUCE FALSE REJECTIONS (LOSS of good customers) AND false approvals (financial risk).
+**Business Impact:** REDUCE FALSE REJECTIONS (LOSS OF GOOD customers) AND false approvals (financial risk).
 
 ## 📂 Files in This Project
 - `docs/CreditWise Loan System.pdf` - Project requirements and problem statement
