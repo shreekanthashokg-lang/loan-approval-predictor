@@ -34,4 +34,4 @@ Shreekanthashokg@gmail.com
 https://www.linkedin.com/in/shreekanth-a-guttedar-81562b384
 
 ---
-*NOTE: THIS is a portfolio project demonstrating end-to-end ML implementation.*
+*NOTE: THIS IS a portfolio project demonstrating end-to-end ML implementation.*
