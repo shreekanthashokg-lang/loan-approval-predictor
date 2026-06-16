@@ -1,7 +1,7 @@
 # CreditWise Loan Approval System
 MINI PROJECT : PREDICTS  LOAN APPROVAL
 ## 🏦 Project Overview
-A MACHINE LEARNING SYSTEM developed to Automate LOAN Approval decisions for SecureTrust Bank. This project addresses the problem of manual, biased loan verification by implementing an Intelligent Prediction Model.
+A MACHINE LEARNING SYSTEM DEVELOPED to Automate LOAN Approval decisions for SecureTrust Bank. This project addresses the problem of manual, biased loan verification by implementing an Intelligent Prediction Model.
 
 **Business Impact:** REDUCE FALSE REJECTIONS (LOSS OF GOOD CUSTOMERS) AND FALSE approvals (financial risk).
 
