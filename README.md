@@ -10,7 +10,7 @@ A MACHINE LEARNING SYSTEM DEVELOPED TO AUTOMATE LOAN APPROVAL DECISIONS FOR SECU
 - `data/loan_approval_data.csv` - Historical loan application dataset
 - `notebooks/loan_approval_analysis.ipynb` - Complete ML pipeline implementation
 
-## 🎯 ML Pipeline
+## 🎯 ML PIPELINE
 1. **Data Exploration & Cleaning**
 2. **Feature Engineering**
 3. **Model Training** (Logistic Regression, Random Forest, etc.)
