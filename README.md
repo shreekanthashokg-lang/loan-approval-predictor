@@ -7,7 +7,7 @@ A MACHINE LEARNING SYSTEM DEVELOPED TO AUTOMATE LOAN APPROVAL DECISIONS FOR SECU
 
 ## 📂 FILES IN THIS PROJECT
 - `docs/CreditWise Loan System.pdf` - PROJECT REQUIREMENTS AND PROBLEM STATEMENT
-- `data/loan_approval_data.csv` - Historical loan application dataset
+- `data/loan_approval_data.csv` - HISTORICAL loan application dataset
 - `notebooks/loan_approval_analysis.ipynb` - Complete ML pipeline implementation
 
 ## 🎯 ML PIPELINE
