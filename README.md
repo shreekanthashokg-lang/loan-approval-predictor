@@ -6,7 +6,7 @@ A MACHINE LEARNING SYSTEM DEVELOPED TO AUTOMATE LOAN APPROVAL DECISIONS FOR SECU
 **Business Impact:** Reduce False Rejections (Loss of GOOD CUSTOMERS) And False Approvals (financial risk).
 
 ## 📂 FILES IN THIS PROJECT
-- `docs/CreditWise Loan System.pdf` - PROJECT REQUIREMENTS AND PROBLEM statement
+- `docs/CreditWise Loan System.pdf` - PROJECT REQUIREMENTS AND PROBLEM STATEMENT
 - `data/loan_approval_data.csv` - Historical loan application dataset
 - `notebooks/loan_approval_analysis.ipynb` - Complete ML pipeline implementation
 
