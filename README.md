@@ -13,7 +13,7 @@ A MACHINE LEARNING SYSTEM DEVELOPED TO AUTOMATE LOAN APPROVAL DECISIONS FOR SECU
 ## 🎯 ML PIPELINE
 1. **DATA EXPLORATION & CLEANING**
 2. **FEATURE ENGINEERING**
-3. **Model Training** (Logistic Regression, Random Forest, etc.)
+3. **MODEL Training** (Logistic Regression, Random Forest, etc.)
 4. **Model Evaluation & Selection**
 5. **Results Analysis**
 
