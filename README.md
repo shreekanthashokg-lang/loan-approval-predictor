@@ -24,7 +24,7 @@ A MACHINE LEARNING SYSTEM DEVELOPED TO AUTOMATE LOAN APPROVAL DECISIONS FOR SECU
 - **Key Features:** Credit Score, Applicant Income, Loan Amount
 
 ## 🚀 Quick Start
-1. Clone this repository
+1. CLONE this repository
 2. Install requirements: `pip install -r requirements.txt`
 3. Open the Jupyter notebook: `jupyter notebook notebooks/loan_approval_analysis.ipynb`
 
