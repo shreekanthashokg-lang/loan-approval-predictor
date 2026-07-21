@@ -23,7 +23,7 @@ A MACHINE LEARNING SYSTEM DEVELOPED TO AUTOMATE LOAN APPROVAL DECISIONS FOR SECU
 - **Recall: 70 % (Important for minimizing good customer rejection)
 - **Key Features:** Credit Score, Applicant Income, Loan Amount
 
-## 🚀 QUICK Start
+## 🚀 QUICK START
 1. CLONE THIS REPOSITORY
 2. INSTALL REQUIREMENTS: `pip install -r requirements.txt`
 3. OPEN THE JUPYTER notebook: `jupyter notebook notebooks/loan_approval_analysis.ipynb`
