@@ -28,7 +28,7 @@ A MACHINE LEARNING SYSTEM DEVELOPED TO AUTOMATE LOAN APPROVAL DECISIONS FOR SECU
 2. INSTALL REQUIREMENTS: `pip install -r requirements.txt`
 3. OPEN THE JUPYTER notebook: `jupyter notebook notebooks/loan_approval_analysis.ipynb`
 
-## 📝 Author
+## 📝 AUTHOR
 SHREEKANTH GUTTEDAR : MACHINE LEARNING ENGINEER  
 Shreekanthashokg@gmail.com  
 https://www.linkedin.com/in/shreekanth-a-guttedar-81562b384
