@@ -18,7 +18,7 @@ A MACHINE LEARNING SYSTEM DEVELOPED TO AUTOMATE LOAN APPROVAL DECISIONS FOR SECU
 5. **Results Analysis**
 
 ## 📊 KEY RESULTS
-- **Best Model: loan-approval-predictor
+- **Best Model: LOAN-Approval-Predictor
 - **Accuracy: 85 %
 - **Recall: 70 % (Important for minimizing good customer rejection)
 - **Key Features:** Credit Score, Applicant Income, Loan Amount
