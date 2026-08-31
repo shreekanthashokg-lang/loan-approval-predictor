@@ -14,7 +14,7 @@ A MACHINE LEARNING SYSTEM DEVELOPED TO AUTOMATE LOAN APPROVAL DECISIONS FOR SECU
 1. **DATA EXPLORATION & CLEANING**
 2. **FEATURE ENGINEERING**
 3. **MODEL TRAINING** (Logistic Regression, Random Forest, etc.)
-4. **MODEL Evaluation & Selection**
+4. **MODEL Evaluation & SELECTION**
 5. **Results Analysis**
 
 ## 📊 KEY RESULTS
