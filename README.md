@@ -26,7 +26,7 @@ A MACHINE LEARNING SYSTEM DEVELOPED TO AUTOMATE LOAN APPROVAL DECISIONS FOR SECU
 ## 🚀 HOW TO START
 1. CLONE THIS REPOSITORY
 2. INSTALL REQUIREMENTS: `pip install -r requirements.txt`
-3. OPEN THE JUPYTER notebook: `jupyter notebook notebooks/loan_approval_analysis.ipynb`
+3. OPEN THE JUPYTER NOTEBOOK: `jupyter notebook notebooks/loan_approval_analysis.ipynb`
 
 ## 📝 AUTHOR DETAILS OF CONTRIBUTION
 SHREEKANTH GUTTEDAR : AI/ML ENGINEER  
