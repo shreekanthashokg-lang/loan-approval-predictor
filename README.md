@@ -46,7 +46,7 @@ By leveraging historical loan application data and predictive modeling, the syst
 
 ---
 
-## 📊 Key Results
+## 📊 KEY RESULT
 - **Best Model:** Loan-Approval-Predictor (Random Forest Classifier)  
 - **Accuracy:** 85%  
 - **Recall:** 70% (critical for reducing false rejections)  
