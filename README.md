@@ -23,7 +23,7 @@ By leveraging historical loan application data and predictive modeling, the syst
 
 ---
 
-## 🎯 ML Pipeline
+## 🎯 ML PIPELINE
 1. **Data Exploration & Cleaning**  
    - Handle missing values, outliers, and categorical encoding.  
    - Normalize numerical features (income, loan amount).  
