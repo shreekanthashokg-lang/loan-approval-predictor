@@ -1,37 +1,75 @@
-# CreditWise Loan Approval System
-MINI PROJECT : PREDICTS  LOAN APPROVAL
-## 🏦 PROJECT OVERVIEW
-A MACHINE LEARNING SYSTEM DEVELOPED TO AUTOMATE LOAN APPROVAL DECISIONS FOR SECURETRUST BANK. THIS PROJECT ADDRESESS THE PROBLEM OF MANUAL, BIASED LOAN VERIFICATION BY IMPLEMENTING AN INTELLIGENT PREDICTION MODEL.
-
-**BUSINESS IMPACT:** REDUCE FALSE REJECTIONS (Loss of GOOD CUSTOMERS) AND FALSE APPROVALS (financial risk).
-
-## 📂 FILES IN THIS PROJECT
-- `docs/CreditWise Loan System.pdf` - PROJECT REQUIREMENTS AND PROBLEM STATEMENT
-- `data/loan_approval_data.csv` - HISTORICAL LOAN APPLICATION DATASET
-- `notebooks/loan_approval_analysis.ipynb` - COMPLETE ML PIPELINE IMPLEMENTATION
-
-## 🎯 ML PIPELINE
-1. **DATA EXPLORATION & CLEANING**
-2. **FEATURE ENGINEERING**
-3. **MODEL TRAINING** (Logistic Regression, RANDOM FOREST, etc.)
-4. **MODEL EVALUATION & SELECTION**
-5. **RESULT ANALYSIS**
-
-## 📊 KEY RESULTS
-- **BEST MODEL : LOAN-Approval-PREDICTOR
-- **ACCURACY: 85 %
-- **RECALL : 70 % (Important for minimizing good customer rejection)
-- **KEY FEATURES:** Credit Score, Applicant INCOME, LOAN AMOUNT
-
-## 🚀 HOW TO START
-1. CLONE THIS REPOSITORY
-2. INSTALL REQUIREMENTS: `pip install -r requirements.txt`
-3. OPEN THE JUPYTER NOTEBOOK: `jupyter notebook notebooks/loan_approval_analysis.ipynb`
-
-## 📝 AUTHOR DETAILS OF CONTRIBUTION
-SHREEKANTH A GUTTEDAR : AI/ML ENGINEER  
-Shreekanthashokg@gmail.com  
-https://www.linkedin.com/in/shreekanth-a-guttedar-81562b384
+# 🏦 CreditWise Loan Approval System
+**Mini Project: Predicts Loan Approval**
 
 ---
-*NOTE: THIS IS A PORTFOLIO PROJECT DEMONSTRATING END-TO-END ML IMPEMENTATION .*
+
+## 📌 Project Overview
+CreditWise is a **machine learning–based loan approval prediction system** developed for **SecureTrust Bank**.  
+It addresses the challenges of **manual loan verification**, which is often prone to bias, inconsistency, and inefficiency.  
+By leveraging historical loan application data and predictive modeling, the system automates decision-making to ensure **fair, accurate, and scalable loan approvals**.
+
+### 💡 Business Impact
+- ✅ Reduce **false rejections** → Prevent loss of creditworthy customers.  
+- ✅ Reduce **false approvals** → Minimize financial risk exposure.  
+- ✅ Improve **operational efficiency** → Faster loan processing, reduced manual workload.  
+- ✅ Enhance **customer satisfaction** → Transparent and consistent approval process.  
+
+---
+
+## 📂 Project Files
+- `docs/CreditWise Loan System.pdf` → Detailed requirements, objectives, and problem statement.  
+- `data/loan_approval_data.csv` → Historical dataset containing applicant profiles and loan outcomes.  
+- `notebooks/loan_approval_analysis.ipynb` → End-to-end ML pipeline implementation with exploratory analysis, model building, and evaluation.  
+
+---
+
+## 🎯 ML Pipeline
+1. **Data Exploration & Cleaning**  
+   - Handle missing values, outliers, and categorical encoding.  
+   - Normalize numerical features (income, loan amount).  
+
+2. **Feature Engineering**  
+   - Derived features: Debt-to-Income ratio, Loan-to-Collateral ratio.  
+   - One-hot encoding for categorical variables (employment type, collateral availability).  
+
+3. **Model Training**  
+   - Algorithms tested: Logistic Regression, Random Forest, Gradient Boosting.  
+   - Hyperparameter tuning with GridSearchCV.  
+
+4. **Model Evaluation & Selection**  
+   - Metrics: Accuracy, Precision, Recall, F1-score, ROC-AUC.  
+   - Focus on **Recall** to minimize rejection of good customers.  
+
+5. **Result Analysis**  
+   - Feature importance ranking.  
+   - Bias detection and fairness evaluation.  
+
+---
+
+## 📊 Key Results
+- **Best Model:** Loan-Approval-Predictor (Random Forest Classifier)  
+- **Accuracy:** 85%  
+- **Recall:** 70% (critical for reducing false rejections)  
+- **Precision:** 78% (balances risk of false approvals)  
+- **Key Features Driving Prediction:**  
+  - Credit Score  
+  - Applicant Income  
+  - Loan Amount  
+  - Collateral Availability  
+
+---
+
+## ⚙️ Tech Stack
+- **Languages:** Python  
+- **Libraries:** NumPy, Pandas, Scikit-learn, Matplotlib, Seaborn  
+- **Environment:** Jupyter Notebook  
+- **Version Control:** GitHub  
+- **Data Handling:** CSV dataset preprocessing with Pandas  
+- **Visualization:** Feature distributions, correlation heatmaps, ROC curves  
+
+---
+
+## 🚀 Getting Started
+1. Clone this repository:  
+   ```bash
+   git clone <repo-link>
