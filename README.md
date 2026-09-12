@@ -1,5 +1,5 @@
 # 🏦 CreditWise Loan Approval System
-**Mini Project: Predicts Loan Approval**
+**MINI PROJECT : Predicts Loan Approval**
 
 ---
 
