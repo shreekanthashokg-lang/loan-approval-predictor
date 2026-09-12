@@ -16,7 +16,7 @@ By leveraging historical loan application data and predictive modeling, the syst
 
 ---
 
-## 📂 Project Files
+## 📂 PROJECT FILES
 - `docs/CreditWise Loan System.pdf` → Detailed requirements, objectives, and problem statement.  
 - `data/loan_approval_data.csv` → Historical dataset containing applicant profiles and loan outcomes.  
 - `notebooks/loan_approval_analysis.ipynb` → End-to-end ML pipeline implementation with exploratory analysis, model building, and evaluation.  
