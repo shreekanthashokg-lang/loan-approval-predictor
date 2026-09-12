@@ -40,7 +40,7 @@ By leveraging historical loan application data and predictive modeling, the syst
    - Metrics: Accuracy, Precision, Recall, F1-score, ROC-AUC.  
    - Focus on **Recall** to minimize rejection of good customers.  
 
-5. **Result Analysis**  
+5. **RESULT ANALYSIS**  
    - Feature importance ranking.  
    - Bias detection and fairness evaluation.  
 
