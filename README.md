@@ -32,7 +32,7 @@ By leveraging historical loan application data and predictive modeling, the syst
    - Derived features: Debt-to-Income ratio, Loan-to-Collateral ratio.  
    - One-hot encoding for categorical variables (employment type, collateral availability).  
 
-3. **Model Training**  
+3. **MODEL TRAINING**  
    - Algorithms tested: Logistic Regression, Random Forest, Gradient Boosting.  
    - Hyperparameter tuning with GridSearchCV.  
 
