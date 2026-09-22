@@ -54,7 +54,7 @@ By leveraging historical loan application data and predictive modeling, the syst
 - **Key Features Driving Prediction:**  
   - Credit Score  
   - Applicant Income  
-  - Loan Amount  
+  - LOAN AMOUNT 
   - Collateral Availability  
 
 ---
