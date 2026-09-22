@@ -8,7 +8,7 @@ CreditWise is a **MACHINE LEARNING–BASED Loan Approval Prediction System** dev
 It addresses the challenges of **MANUAL LOAN VERIFICATION**, which is often prone to bias, inconsistency, and inefficiency.  
 By leveraging historical loan application data and predictive modeling, the system automates decision-making to ensure **fair, accurate, and scalable loan approvals**.
 
-### 💡 Business Impact
+### 💡 BUSINESS IMPACT
 - ✅ Reduce **false rejections** → Prevent loss of creditworthy customers.  
 - ✅ Reduce **false approvals** → Minimize financial RISK EXPOSURE.  
 - ✅ Improve **operational efficiency** → Faster loan processing, reduced manual workload.  
