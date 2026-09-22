@@ -4,7 +4,7 @@
 ---
 
 ## 📌 Project Overview
-CreditWise is a **MACHINE LEARNING–based loan approval prediction system** developed for **SecureTrust Bank**.  
+CreditWise is a **MACHINE LEARNING–BASED Loan Approval Prediction System** developed for **SecureTrust Bank**.  
 It addresses the challenges of **MANUAL LOAN VERIFICATION**, which is often prone to bias, inconsistency, and inefficiency.  
 By leveraging historical loan application data and predictive modeling, the system automates decision-making to ensure **fair, accurate, and scalable loan approvals**.
 
