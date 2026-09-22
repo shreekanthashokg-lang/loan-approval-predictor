@@ -1,4 +1,4 @@
-# 🏦 CreditWise Loan Approval System
+# 🏦 CREADITSWISE LAON APPROVAL SYSTEM
 **MINI PROJECT : PREDICTS LOAN APPROVAL**
 
 ---
