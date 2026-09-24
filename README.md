@@ -36,7 +36,7 @@ By leveraging historical loan application data and Predictive Modeling, the syst
    - Algorithms tested: Logistic Regression, Random Forest, Gradient Boosting.  
    - Hyperparameter tuning with GridSearchCV.  
 
-4. **Model Evaluation & Selection**  
+4. **MODEL EVALUATION & SELECTION**  
    - Metrics: Accuracy, Precision, Recall, F1-score, ROC-AUC.  
    - Focus on **Recall** to minimize rejection of good customers.  
 
