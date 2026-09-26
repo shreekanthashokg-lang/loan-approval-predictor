@@ -28,7 +28,7 @@ By leveraging historical loan application data and Predictive Modeling, the syst
    - Handle missing values, outliers, and categorical encoding.  
    - Normalize numerical features (income, loan amount).  
 
-2. **Feature Engineering**  
+2. **FEATURE ENGINEERING**  
    - Derived features: Debt-to-Income ratio, Loan-to-Collateral ratio.  
    - One-hot encoding for categorical variables (employment type, collateral availability).  
 
