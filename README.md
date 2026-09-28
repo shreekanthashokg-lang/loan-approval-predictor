@@ -41,7 +41,7 @@ By leveraging historical loan application data and Predictive Modeling, the syst
    - Focus on **Recall** to minimize rejection of good customers.  
 
 5. **RESULT ANALYSIS**  
-   - Feature importance ranking.  
+   - FEATURE IMPORTANCE RANK.
    - Bias detection and fairness evaluation.  
 
 ---
