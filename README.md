@@ -11,7 +11,7 @@ By leveraging historical loan application data and Predictive Modeling, the syst
 ### 💡 BUSINESS IMPACT
 - ✅ Reduce **false rejections** → Prevent loss of creditworthy customers.  
 - ✅ Reduce **false approvals** → Minimize financial RISK EXPOSURE.  
-- ✅ Improve **operational efficiency** → Faster loan processing, reduced manual workload.  
+- ✅ Improve **operational efficiency** → FASTER LOAN PROCESSING, reduced manual workload.  
 - ✅ Enhance **customer satisfaction** → Transparent and consistent approval process.  
 
 ---
