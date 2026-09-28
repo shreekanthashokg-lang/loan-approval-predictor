@@ -69,7 +69,7 @@ By leveraging historical loan application data and Predictive Modeling, the syst
 
 ---
 
-## 🚀 GETTING STARTED
+## 🚀 GETTING STARTED WITH THE COMPLETE REPO
 1. CLONE THIS REPOSITORY Clone REPOSITORY :  
    ```bash
    git clone <repo-link>
