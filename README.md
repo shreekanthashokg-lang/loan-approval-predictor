@@ -65,7 +65,7 @@ By leveraging historical loan application data and Predictive Modeling, the syst
 - **ENVIRONMENT :** Jupyter Notebook  
 - **Version Control:** GitHub  
 - **Data Handling:** CSV dataset preprocessing with Pandas  
-- **Visualization:** Feature distributions, correlation heatmaps, ROC curves  
+- **Visualization:** Feature distributions, correlation heatmap AND  ROC CURVES  
 
 ---
 
