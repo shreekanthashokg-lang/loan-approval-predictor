@@ -33,7 +33,7 @@ By leveraging historical loan application data and Predictive Modeling, the syst
    - One-hot encoding for categorical variables (employment type, collateral availability).  
 
 3. **MODEL TRAINING**  
-   - Algorithms tested: Logistic Regression, Random Forest, Gradient Boosting.  
+   - Algorithms tested: LOGISTIC REGRESSION, Random Forest, Gradient Boosting.  
    - Hyperparameter tuning with GridSearchCV.  
 
 4. **MODEL EVALUATION & SELECTION**  
