@@ -30,7 +30,7 @@ By leveraging historical loan application data and Predictive Modeling, the syst
 
 2. **FEATURE ENGINEERING**  
    - Derived features: Debt-to-Income ratio, Loan-to-Collateral ratio.  
-   - One-hot encoding for categorical variables (employment type, collateral availability).  
+   - One-hot encoding for categorical variables .  
 
 3. **MODEL TRAINING**  
    - Algorithms tested: LOGISTIC REGRESSION, Random Forest, Gradient Boosting.  
