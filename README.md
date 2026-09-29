@@ -64,7 +64,7 @@ By leveraging historical loan application data and Predictive Modeling, the syst
 - **Libraries:** NumPy, Pandas, Scikit-learn, Matplotlib, Seaborn  
 - **ENVIRONMENT :** Jupyter Notebook  
 - **Version Control:** GitHub  
-- **Data Handling:** CSV dataset preprocessing with Pandas  
+- **Data Handling:** CSV DATASET PREPROCESSING WITH PANDAS
 - **Visualization:** Feature distributions, correlation heatmap AND  ROC CURVES  
 
 ---
