@@ -9,7 +9,7 @@ It addresses the challenges of **MANUAL LOAN VERIFICATION**, which is often pron
 By leveraging historical loan application data and Predictive Modeling, the system automates decision-making to ensure **fair, accurate, and scalable loan approvals**.
 
 ### 💡 PROJECT BUSINESS IMPACT
-- ✅ Reduce **false rejections** → Prevent loss of creditworthy customers.  
+- ✅ Reduce **false rejections** → PREVENT LOSS OF CREDITWORTHY CUSTOMERS. 
 - ✅ Reduce **false approvals** → Minimize financial RISK EXPOSURE.  
 - ✅ Improve **operational efficiency** → FASTER LOAN PROCESSING, reduced manual workload.  
 - ✅ Enhance **customer satisfaction** → Transparent and consistent approval process.  
