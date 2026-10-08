@@ -55,7 +55,7 @@ BY Leveraging Historical Loan Application Data and Predictive Modeling, the syst
   - CREDICT SCORE
   - APPLICANT INCOME 
   - LOAN AMOUNT 
-  - Collateral Availability  
+  - COLLATERAL AVAILABILITY
 
 ---
 
