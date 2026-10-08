@@ -47,7 +47,7 @@ BY Leveraging Historical Loan Application Data and Predictive Modeling, the syst
 ---
 
 ## 📊 KEY RESULT
-- **Best Model:** LOAN APPROVAL PREDICTOR : Random Forest Classifier
+- **Best Model:** LOAN APPROVAL PREDICTOR : RANDOM FOREST CLASSIFIER
 - **Accuracy:** 85%  
 - **Recall:** 70% (critical for reducing false rejections)  
 - **Precision:** 78% (BALANCES RISK OF FALSE APPROVALS)  
