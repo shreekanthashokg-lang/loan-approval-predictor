@@ -60,8 +60,8 @@ BY Leveraging Historical Loan Application Data and Predictive Modeling, the syst
 ---
 
 ## ⚙️ THE COMPLETE TECH STACK
-- **Languages:** Python  
-- **Libraries:** NumPy, Pandas, Scikit-learn, Matplotlib, Seaborn  
+- **Languages:** PYTHON  
+- **Libraries:** NumPy, PANDAS, Scikit-learn, Matplotlib, Seaborn  
 - **ENVIRONMENT :** Jupyter Notebook  
 - **Version Control:** GitHub  
 - **Data Handling:** CSV DATASET PREPROCESSING WITH PANDAS
