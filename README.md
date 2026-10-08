@@ -52,8 +52,8 @@ BY Leveraging Historical Loan Application Data and Predictive Modeling, the syst
 - **Recall:** 70% (critical for reducing false rejections)  
 - **Precision:** 78% (balances risk of false approvals)  
 - **KEY FEATURES DRIVING PREDICTIONS :**  
-  - Credit Score  
-  - Applicant Income  
+  - CREDICT SCORE
+  - APPLICANT INCOME 
   - LOAN AMOUNT 
   - Collateral Availability  
 
