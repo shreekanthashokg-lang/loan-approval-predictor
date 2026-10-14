@@ -42,7 +42,7 @@ BY Leveraging Historical Loan Application Data and Predictive Modeling, the syst
 
 5. **RESULT ANALYSIS**  
    - FEATURE IMPORTANCE RANK.
-   - Bias detection and fairness evaluation.  
+   - BIAS DETECTION AND FAIRNESS EVALUATION.
 
 ---
 
