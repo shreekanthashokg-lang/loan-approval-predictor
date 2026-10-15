@@ -37,8 +37,8 @@ BY Leveraging Historical Loan Application Data and Predictive Modeling, the syst
    - Hyperparameter tuning with GridSearchCV.  
 
 4. **MODEL EVALUATION & SELECTION**  
-   - Metrics: Accuracy, Precision, Recall, F1-score, ROC-AUC.  
-   - Focus on **Recall** TO MINIMIZE REJECTION OF GOOD CUSTOMERS.  
+   - METRICS: Accuracy, Precision, Recall, F1-score, ROC-AUC.  
+   - FOCUS ON **Recall** TO MINIMIZE REJECTION OF GOOD CUSTOMERS.  
 
 5. **RESULT ANALYSIS**  
    - FEATURE IMPORTANCE RANK.
