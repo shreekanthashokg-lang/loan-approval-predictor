@@ -12,7 +12,7 @@ The solution empowers banking professionals with intelligent insights, reduces p
 
 # 🎯 BUSINESS PROBLEMS
 
-Financial institutions face several challenges during loan approval:
+FINACIAL INSTITUTIONS FACE SEVERAL CHALLENGES DURING LOAN APPROVAL: 
 
 - Manual verification consumes significant time and resources.
 - Inconsistent evaluations can lead to unfair decisions.
