@@ -202,7 +202,7 @@ Multiple machine learning algorithms were tested and compared.
 
 ## 5️⃣ Hyperparameter Optimization
 
-To maximize predictive performance, model tuning was conducted using:
+TO MAXIMIZE PREDICTIVE PERFORMANCE, MODEL TUNING WAS CONDUCTED USING:  
 
 ### GridSearchCV
 
