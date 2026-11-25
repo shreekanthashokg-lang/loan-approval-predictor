@@ -219,7 +219,7 @@ Parameters optimized included:
 - Number of estimators
 - Maximum depth
 
-Cross-validation ensured robust and reliable model selection.
+CROSS-VALIDATION ENSURED ROBUST AND RELIABLE MODEL SELECTION.
 
 ---
 
