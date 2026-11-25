@@ -127,7 +127,7 @@ The raw dataset underwent extensive preprocessing to improve model quality.
 
 ## 2️⃣ Exploratory Data Analysis (EDA)
 
-Comprehensive analysis was conducted to understand customer trends and approval patterns.
+COMPREHENSIVE ANALYSIS WAS CONDUCTED TO UNDERSTAND CUSTOMER TRENDS AND APPROVAL PATTERNS.
 
 ### Key Analysis Performed
 - Loan approval distribution
