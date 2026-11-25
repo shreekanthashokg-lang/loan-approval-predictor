@@ -10,7 +10,7 @@ The solution empowers banking professionals with intelligent insights, reduces p
 
 ---
 
-# 🎯 Business Problem
+# 🎯 BUSINESS PROBLEMS
 
 Financial institutions face several challenges during loan approval:
 
@@ -24,7 +24,7 @@ CreditWise addresses these challenges by applying predictive analytics and machi
 
 ---
 
-# 🚀 Project Objectives
+# 🚀 PROJECT OBJECTIVES 
 
 ### Primary Objectives
 - Predict loan approval outcomes using historical applicant data.
@@ -53,7 +53,7 @@ Contains:
 - Functional specifications
 - Evaluation criteria
 
-### Dataset
+### DATASET
 **/data/loan_approval_data.csv**
 
 Historical banking dataset containing:
@@ -65,7 +65,7 @@ Historical banking dataset containing:
 - Collateral information
 - Loan approval status
 
-### Development Notebook
+### DEVELOPMENT NOTEBOOK 
 **/notebooks/loan_approval_analysis.ipynb**
 
 Contains:
@@ -79,7 +79,7 @@ Contains:
 
 ---
 
-# 🔍 Dataset Features
+# 🔍 DATASET FEATURES 
 
 The system evaluates multiple attributes, including:
 
