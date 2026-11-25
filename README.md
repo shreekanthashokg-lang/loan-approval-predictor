@@ -81,7 +81,7 @@ CONTAINS:
 
 # 🔍 DATASET FEATURES 
 
-The system evaluates multiple attributes, including:
+THE SYSTEM EVALUATES MULTIPLE ATTRIBUTES, INCLUDING : 
 
 | Feature | Description |
 |----------|-------------|
