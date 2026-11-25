@@ -68,7 +68,7 @@ Historical banking dataset containing:
 ### DEVELOPMENT NOTEBOOK 
 **/notebooks/loan_approval_analysis.ipynb**
 
-Contains:
+CONTAINS:
 - Data preprocessing
 - Exploratory Data Analysis (EDA)
 - Feature Engineering
@@ -99,7 +99,7 @@ The system evaluates multiple attributes, including:
 
 ---
 
-# 🔄 Machine Learning Pipeline
+# 🔄 MACHINE LEARNING PIPELINE 
 
 ## 1️⃣ Data Exploration and Cleaning
 
