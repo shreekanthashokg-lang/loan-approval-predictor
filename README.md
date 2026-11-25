@@ -296,7 +296,7 @@ Lower ratios generally correlated with positive outcomes.
 
 # ⚖️ Fairness and Bias Evaluation
 
-Given the importance of ethical lending practices, additional fairness checks were performed.
+GIVEN THE IMPORTANCE OF ETHICAL LEADING PRACTICES, ADDITIONAL FAIRNESS CHECKS WERE PERFORMED. 
 
 ### Evaluated Factors
 - Gender bias
